@@ -1,0 +1,5 @@
+# Warining: DON'T CHANGE THE VERSION!
+version: 1.0
+
+# Default lang for all members in your server
+default-lang: es_ES

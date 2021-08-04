@@ -1,0 +1,6 @@
+name: Simple-FFA
+author: Koralop
+api: 3.20.0
+depend:
+  - FormAPI
+main: koralop\ffa\Loader
